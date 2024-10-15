@@ -1,0 +1,1 @@
+# BB_SemaphoreClear(Name)  ## FUNCTION:Used to clear a semaphore.  Can only clear a semaphore created by the local process.  ----------------------------------------## PARAMETERS$1: text: semaphore name    ----------------------------------------  
