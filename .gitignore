@@ -4,3 +4,5 @@ BB_Semaphore/Project/Sources/settings.4DSettings
 **/methodAttributes.json
 BB_Semaphore/Data/*
 BB_Semaphore/Project/DerivedData/*
+BB_Semaphore/Libraries/lib4d-arm64.dylib
+BB_Semaphore/userPreferences.*
