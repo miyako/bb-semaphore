@@ -1,8 +1,8 @@
 
-BB_Semaphore/Settings/buildApp.4DSettings
-BB_Semaphore/Project/Sources/settings.4DSettings
+bb-semaphore/Settings/buildApp.4DSettings
+bb-semaphore/Project/Sources/settings.4DSettings
 **/methodAttributes.json
-BB_Semaphore/Data/*
-BB_Semaphore/Project/DerivedData/*
-BB_Semaphore/Libraries/lib4d-arm64.dylib
-BB_Semaphore/userPreferences.*
+bb-semaphore/Data/*
+bb-semaphore/Project/DerivedData/*
+bb-semaphore/Libraries/lib4d-arm64.dylib
+bb-semaphore/userPreferences.*
